@@ -30,7 +30,7 @@ is not prohibited eventhough a merge is unlikely.
 
 ### Screenshots
 <div style="margin-left: 200px">
-<img src="/docs/gameplayFootage_1.png" width="500"></div>
+<img src="/docs/IMG_4890" width="500"></div>
 <hr>
 <div>
 <img src="/docs/gameplayFootage_2.png" width="500"></div>
