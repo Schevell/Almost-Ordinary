@@ -13,7 +13,8 @@ It is a semi open world game with intentional limitations.
 - Interact: `Click/Tap`
 - Look around: `Mouse Cursor`
 ## How to test?
-1. Click on the following [link](https://playcanvas.com/project/1453443/overview/almost-ordinary-still-in-work)
+(Website is kept secret at the moment, will be revealed soon)
+1. Click on the following [link]()
 2. Click the orange 'Editor' button.
 3. In the editor, click the 'Launch' button, located in the right corner.
 - Please take note of the fact that the game is currently facing many difficulties, so at the time you are reading this, it could be
