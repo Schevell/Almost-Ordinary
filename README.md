@@ -4,7 +4,7 @@
 **Almost Ordinary** is a singleplayer 3D Choices-Matter story game currently in development.
 It is a semi open world game with intentional limitations.
 ## Project Status
-**Working on Almost Ordinary is curretly paused, due to missing time and other issues, listed below.**
+Working on **Almost Ordinary** is currently paused, due to missing time and other issues, listed below.
 **Almost Ordinary** is still in early development.
 ## Gameplay
 **Almost Ordinary's** gameplay focuses on the players decisions and its impacts.
@@ -13,7 +13,7 @@ It is a semi open world game with intentional limitations.
 - Interact: `Click/Tap`
 - Look around: `Mouse Cursor`
 ## How to test?
-(Website is kept secret at the moment, will be revealed soon)
+(Website is kept secret at the moment, but will be revealed soon)
 1. Click on the following [link]()
 2. Click the orange 'Editor' button.
 3. In the editor, click the 'Launch' button, located in the right corner.
