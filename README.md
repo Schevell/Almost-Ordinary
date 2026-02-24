@@ -33,10 +33,10 @@ is not prohibited eventhough a merge is unlikely.
 <img src="/docs/IMG_1489.jpeg" width="500"></div>
 <hr>
 <div>
-<img src="/docs/IMG_14890.jpeg" width="500"></div>
+<img src="/docs/IMG_1490.jpeg" width="500"></div>
 <hr>
 <div>
-<img src="/docs/IMG_14893.jpeg" width="500">
+<img src="/docs/IMG_1493.jpeg" width="500">
 </div>
 
 ---
